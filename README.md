@@ -1,6 +1,7 @@
-# Hindi-Character-Recognition
+# Hindi-Character-Detection
+This project detects the presence of hindi characters in images by classifying an image as either 'character present' or 'absent'. We have used a 2D convolutional neural network for classification. Architecture shown below. 
 
-Link to Dataset :  https://drive.google.com/drive/folders/1O8TT0s4zMyiI6zR-biVRoiLiAUy-W1H0
+
 
 # Neural Network Architecture
 <img src="https://github.com/UttaraKet1607/Hindi-Character-Recognition/blob/main/images/graph.svg">
