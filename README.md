@@ -8,6 +8,8 @@ This project detects the presence of hindi characters in images by classifying a
 <img src="https://github.com/UttaraKet1607/Hindi-Character-Recognition/blob/main/images/graph.svg">
 <br>
 <img src="https://github.com/UttaraKet1607/Hindi-Character-Recognition/blob/main/images/legend.svg">
+Architecture generated from <a href="https://viscom.net2vis.uni-ulm.de/">here</a>
+
 
 # Contributors
 1. <a href="https://www.github.com/Uttaraket1607"> Uttara Ketkar </a> 
