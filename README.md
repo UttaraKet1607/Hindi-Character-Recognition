@@ -4,7 +4,9 @@ This project detects the presence of hindi characters in images by classifying a
 
 
 # Neural Network Architecture
+<br>
 <img src="https://github.com/UttaraKet1607/Hindi-Character-Recognition/blob/main/images/graph.svg">
+<br>
 <img src="https://github.com/UttaraKet1607/Hindi-Character-Recognition/blob/main/images/legend.svg">
 
 # Contributors
